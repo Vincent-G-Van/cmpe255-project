@@ -4,8 +4,8 @@
 #  – Identify the author of an article based on attributes describing their writing style
 
 # How to Run
-# - Clone repositroy
-# - If applicable, install python
-# - Run any of the python notebook (.ipynb) file within following directories:
-#   - Baseline
-#   - ...
+- Clone repositroy
+- If applicable, install python
+- Run any of the python notebook (.ipynb) file within following directories:
+  - Baseline
+  - ...
