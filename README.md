@@ -6,6 +6,4 @@
 # How to Run
 - Clone repositroy
 - If applicable, install python
-- Run any of the python notebook (.ipynb) file within following directories:
-  - Baseline
-  - ...
+- Run any of the python notebook (.ipynb) file
