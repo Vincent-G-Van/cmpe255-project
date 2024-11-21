@@ -5,6 +5,7 @@
 
 # How to Run
 - Clone repositroy
-- If applicable, install python
-- Run any of the python notebook (.ipynb) file
-- Refer to Project_Group_5.ipynb (https://github.com/Vincent-G-Van/cmpe255-project/blob/main/Project_Group_5.ipynb) for the consolidated notebook
+- If applicable, install Python and Juypter Notebook
+- Run the python notebook (.ipynb)
+  - Refer to Project_Group_5.ipynb (https://github.com/Vincent-G-Van/cmpe255-project/blob/main/Project_Group_5.ipynb) for the consolidated notebook
+  - Install any necessary python libraries
